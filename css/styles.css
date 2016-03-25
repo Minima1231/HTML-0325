@@ -1,0 +1,35 @@
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    color: blue;
+}
+
+p {
+    color:green;
+}
+
+#p01 {
+    color: red;
+}
+
+#p02 {
+    
+    font-family: verdana;
+    font-size: 150%;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 30px;
+}
+
+#p03 {
+    color: #ffba01;
+    font-family: verdana;
+    font-size: 150%;
+}
+
+p.group {
+    color: red;
+}
+CSS Fonts
